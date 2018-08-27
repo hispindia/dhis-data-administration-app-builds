@@ -8,7 +8,7 @@
   },
   "appType": "APP",
   "name": "Data Administration",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "description": "Data Administration",
   "icons": {
     "48": "icon.png"
@@ -20,5 +20,5 @@
   "dhis2": {
     "apiVersion": "29"
   },
-  "manifest_generated_at": "Mon Aug 27 2018 14:40:41 GMT+0000 (UTC)"
+  "manifest_generated_at": "Mon Aug 27 2018 14:49:27 GMT+0000 (UTC)"
 }
